@@ -74,7 +74,8 @@ While this perl book isn't technically a computer, it does hold a near and dear 
 ![macintosh plus](https://images.theoppositeof.cool/2018-05-03/macintosh_plus.jpg)
 
 ### NextCube
-![NextCube](https://images.theoppositeof.cool/2018-05-03/crt_scanningnext.mp4)
+(vid)
+[![NextCube](https://images.theoppositeof.cool/2018-05-03/next_cap.png)](https://images.theoppositeof.cool/2018-05-03/crt_scanningnext.mp4)
 
 ### Cap'n Crunch 2600 Hz Whistle
 ![Cap'n Crunch Whistle](https://images.theoppositeof.cool/2018-05-03/capncrunch_1.jpg)

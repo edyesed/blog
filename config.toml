@@ -1,4 +1,5 @@
 baseURL = "https://theoppositeof.cool/"
+#baseURL = "https://edyesed.github.io/"
 languageCode = "en-us"
 title = "the opposite of cool"
 theme = "beautifulhugo"
@@ -10,7 +11,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 googleAnalytics = "UA-50727013-2"
-disqus = "https-theoppositeof-cool"
+disqusShortname = "https-theoppositeof-cool"
 
 # 3 color palatte http://paletton.com/#uid=32N0I0kjcl79tv1expBndh1sBbN
 # 4 color palatte http://paletton.com/#uid=7290s0kllllaFw0g0qFqFg0w0aF
@@ -40,7 +41,6 @@ disqus = "https-theoppositeof-cool"
   comments = true
   readingTime = true
   useHLJS = true
-  socialShare = true
 
   # Google Analytics.
   #googleAnalytics = "UA-50727013-2"
