@@ -1,9 +1,18 @@
 baseURL = "https://theoppositeof.cool/"
+#baseURL = "https://edyesed.github.io/"
 languageCode = "en-us"
 title = "the opposite of cool"
-theme = "hugo-theme-dopetrope"
+theme = "beautifulhugo"
 copyright = "(c) 2018 <a href='https://twitter.com/edyesed'>@edyesed</a>"
 metaDataFormat = "yaml"
+
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+googleAnalytics = "UA-50727013-2"
+disqusShortname = "https-theoppositeof-cool"
+
 # 3 color palatte http://paletton.com/#uid=32N0I0kjcl79tv1expBndh1sBbN
 # 4 color palatte http://paletton.com/#uid=7290s0kllllaFw0g0qFqFg0w0aF
 #[permalinks]
@@ -21,26 +30,27 @@ metaDataFormat = "yaml"
 ##    name = "ed"
 ##    email = "ed@theoppositeof.cool"
 ##
-[params.portfolio]
-    # You can use markdown here.
-    title = "tech"
-    foldername = "tech"
-    findoutmoretext = "read about this"
+[Params]
+  homeTitle = ' '
+  subtitle = "yay, another atrophying blog"
+  logo = "img/avatar-icon.gif"
+  favicon = "img/favicon.ico"
+  dateFormat = "2006-01-02"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
 
-[params.blog]
-    title = "blog"
-    viewalltext = "View All"
-    foldername = "blog"
-
-[params.settings]
-    # Google Analytics.
-    googleAnalytics = "UA-50727013-2"
-    disqus = "https-theoppositeof-cool"
+  # Google Analytics.
+  #googleAnalytics = "UA-50727013-2"
 
 ##    # Sidebar social links.
-##    github = "edyesed/" # Your Github profile ID
-##    linkedin = "edyesed" # Your LinkedIn profile ID (from public URL)
-##    twitter = "edyesed" # Your Twitter profile ID
+[Author]
+  name = "Ed"
+  github = "edyesed/" # Your Github profile ID
+  linkedin = "edyesed" # Your LinkedIn profile ID (from public URL)
+  twitter = "edyesed" # Your Twitter profile ID
 ##    #youtube = ""   Your Youtube channel ID
 ##    #flattr = ""  # populate with your flattr uid
 ##    #flickr = "" # Your Flickr profile ID
@@ -48,5 +58,46 @@ metaDataFormat = "yaml"
 ##
 ##    # Sidebar RSS link: will only show up if there is a RSS feed
 ##    # associated with the current page
-##    rss = true
 
+[[menu.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3
+
+#[[menu.main]]
+#    identifier = "samples"
+#    name = "Samples"
+#    weight = 2
+#
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Big Image Sample"
+#    url = "post/2017-03-07-bigimg-sample"
+#    weight = 1
+#
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Math Sample"
+#    url = "post/2017-03-05-math-sample"
+#    weight = 2
+
+#[[menu.main]]
+#    parent = "samples"
+#    name = "Code Sample"
+#    url = "post/2016-03-08-code-sample"
+#    weight = 3
+
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 3

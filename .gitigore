@@ -1,0 +1,4 @@
+# ignore these
+# public is built out by doing the command "hugo"
+#
+#public/
