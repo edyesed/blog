@@ -2,6 +2,6 @@
 
 * A soon-to-be-abandoned effort to blog
 
-* #dadops stuff
+* [#dadops](/tags/dadops) stuff
 
 * #devops stuff

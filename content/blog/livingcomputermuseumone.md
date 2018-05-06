@@ -2,6 +2,7 @@
 title: "A Trip to the Living Computer Museum"
 date: 2018-05-02T21:38:32-07:00
 draft: false
+tags: ["seattle", "computer", "personal", "sysops" , "sysadmin"]
 ---
 # in Seattle... 
 One of the neat things about living in Seattle is that Seattle has quite a lot of ~~retired~~ philanthropic bazillionaires about the town.
