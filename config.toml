@@ -13,6 +13,11 @@ pygmentsCodefencesGuessSyntax = true
 googleAnalytics = "UA-50727013-2"
 disqusShortname = "https-theoppositeof-cool"
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
 # 3 color palatte http://paletton.com/#uid=32N0I0kjcl79tv1expBndh1sBbN
 # 4 color palatte http://paletton.com/#uid=7290s0kllllaFw0g0qFqFg0w0aF
 #[permalinks]
@@ -21,10 +26,6 @@ disqusShortname = "https-theoppositeof-cool"
 ##    posts = "/:year/:month/:day/:slug/"
 ##    tutorials = "/:slug/"
 ##    code = "/:slug/"
-##
-##[taxonomies]
-##    tag = "tags"
-##    topic = "topics"
 ##
 ##[author]
 ##    name = "ed"
@@ -42,22 +43,11 @@ disqusShortname = "https-theoppositeof-cool"
   readingTime = true
   useHLJS = true
 
-  # Google Analytics.
-  #googleAnalytics = "UA-50727013-2"
-
-##    # Sidebar social links.
 [Author]
   name = "Ed"
   github = "edyesed/" # Your Github profile ID
   linkedin = "edyesed" # Your LinkedIn profile ID (from public URL)
   twitter = "edyesed" # Your Twitter profile ID
-##    #youtube = ""   Your Youtube channel ID
-##    #flattr = ""  # populate with your flattr uid
-##    #flickr = "" # Your Flickr profile ID
-##    #vimeo = "" # Your Vimeo profile ID
-##
-##    # Sidebar RSS link: will only show up if there is a RSS feed
-##    # associated with the current page
 
 [[menu.main]]
     name = "Blog"
@@ -69,10 +59,10 @@ disqusShortname = "https-theoppositeof-cool"
     url = "page/about/"
     weight = 3
 
-#[[menu.main]]
-#    name = "Tags"
-#    url = "tags"
-#    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 2
 
 #[[menu.main]]
 #    identifier = "samples"
