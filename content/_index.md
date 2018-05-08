@@ -4,4 +4,4 @@
 
 * [#dadops](/tags/dadops) stuff
 
-* #devops stuff
+* [#devops](/tags/devops) stuff

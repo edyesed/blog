@@ -13,6 +13,8 @@ pygmentsCodefencesGuessSyntax = true
 googleAnalytics = "UA-50727013-2"
 disqusShortname = "https-theoppositeof-cool"
 
+pluralizelisttitles = false
+
 [taxonomies]
   category = "categories"
   series = "series"
@@ -57,17 +59,18 @@ disqusShortname = "https-theoppositeof-cool"
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 2
+    weight = 3
 
-#[[menu.main]]
-#    identifier = "samples"
-#    name = "Samples"
-#    weight = 2
+[[menu.main]]
+    identifier = "tech"
+    url = "tech/"
+    name = "Tech"
+    weight = 2
 #
 #[[menu.main]]
 #    parent = "samples"
