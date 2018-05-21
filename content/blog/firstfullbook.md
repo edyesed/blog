@@ -8,9 +8,9 @@ tags: ["dadops", "personal"]
 # Have a kid, they said. It'll be fun, they said.
 I really **really** love being a familyman, and practicing the [#dadops](/tags/dadops/). I may one day give you the rundown on what being a Dad means to me, and the positive changes that process has brought ( or sometimes shoved ) into my life, but today is not that day.
 
-Today, I'm gonna celebrate a creation of my 6 and a half-ish old daughter. Gwinn ( my daughter ) may have written this at school ( she's in kindergarden ), or perhaps she wrote it at our house while I was away at [work](https://instagr.am/realselflife). ¯\\\_(ツ)\_/¯
+Today, I'm gonna celebrate a creation of my 6 and a half-ish old daughter. _KidOneAndOnly_ ( my daughter ) may have written this at school ( she's in kindergarden ), or perhaps she wrote it at our house while I was away at [work](https://instagr.am/realselflife). ¯\\\_(ツ)\_/¯
 
-This morning, Gwinn mentioned in passing that she had written a book. I think my wife may have had some idea of what was up. She asked Gwinn to go get the book and read it to us.
+This morning, _KidOneAndOnly_ mentioned in passing that she had written a book. I think my wife may have had some idea of what was up. She asked _KidOneAndOnly_ to go get the book and read it to us.
 
 My dudes, this thing is **a masterpiece** of friendship, and it includes my daughter's most favorite animal, _the horse_.
 
@@ -20,7 +20,7 @@ The book may be short, but the story is pretty deep.
 ### Cover
 The Horse and Zebra Are BFFS. 
 
-BY GWINN
+BY _KIDONEANDONLY_
 
 ![cover](https://images.theoppositeof.cool/2018-05-05/00_cover.jpg)
 

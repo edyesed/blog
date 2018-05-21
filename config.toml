@@ -12,6 +12,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 googleAnalytics = "UA-50727013-2"
 disqusShortname = "https-theoppositeof-cool"
+enableRobotsTXT = true
 
 pluralizelisttitles = false
 
